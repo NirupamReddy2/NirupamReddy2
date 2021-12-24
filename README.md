@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NirupamReddy2
-- 👀 I’m interested in Machine Learning, Data Science and development using python
+- 👀 I’m interested in Machine Learning, Data Science and Web Development
 - 🌱 I’m currently learning Machine Learning and competitive programming
 
 <!---
