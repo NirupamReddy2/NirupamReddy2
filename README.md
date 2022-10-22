@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhandar Nirupam Reddy</h1>
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirupamreddy2&show_icons=true&locale=en" alt="nirupamreddy2" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirupamreddy2&theme=rose_pine&show_icons=true" alt="nirupamreddy2" /></p>
 
 <h3>I'm a 3rd year engineering student pursuing Electronics and Computer Engineering at Mahindra University</h3>
 
