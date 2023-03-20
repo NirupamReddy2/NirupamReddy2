@@ -5,7 +5,7 @@
 
 <h3>I'm a 3rd year engineering student pursuing Electronics and Computer Engineering at Mahindra University</h3>
 
-- 👨‍💻 All of my projects are available at [https://nirupamreddy2.github.io/#/](https://nirupamreddy2.github.io/#/)
+- 👨‍💻 All of my projects are available at [www.nirupamreddy.tech](https://nirupamreddy2.github.io/#/)
 
 - 📫 How to reach me **bandarnirupamreddy@gmail.com**
 
